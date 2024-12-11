@@ -1,0 +1,8 @@
+## Interface: 110002
+## Version: 0.1.0
+## Title: AutoAugMacro
+## Author: BBM
+## SavedVariables: AutoAugMacroDB
+## X-Curse-Project-ID: 1157012
+
+AutoAugMacro.lua
